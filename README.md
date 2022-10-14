@@ -1,7 +1,7 @@
 # Your project title
 
-![image](![image](https://user-images.githubusercontent.com/61709493/195781068-93c4f9c9-fca6-423f-a77f-d299012a6a87.png)
-)
+![Screenshot from 2022-10-14 10-13-24](https://user-images.githubusercontent.com/61709493/195797032-df3536e9-5e03-43d7-bc54-275ee05c937a.png)
+
 
 A simple overview of the use/purpose of the project.
 
@@ -11,9 +11,9 @@ Add a more detailed description of what your project entails and set out to do.
 
 You can add some bullet points if you'd like to:
 
-- List item 1
-- List item 2
-- List item 3
+- Fetch info from an API
+- Learning React
+- Login with Strapi
 
 ## Built With
 
