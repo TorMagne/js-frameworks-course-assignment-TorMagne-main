@@ -7,8 +7,6 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
-
 You can add some bullet points if you'd like to:
 
 - Fetch info from an API
@@ -17,16 +15,12 @@ You can add some bullet points if you'd like to:
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
 
 ## Getting Started
 
 ### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
 1. Clone the repo:
 
@@ -42,7 +36,6 @@ npm install
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
 
 To run the app, run the following commands:
 
